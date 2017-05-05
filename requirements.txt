@@ -26,6 +26,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
+latimes-calculate==0.3.1
 MarkupSafe==1.0
 matplotlib==2.0.1
 mistune==0.7.4
@@ -45,12 +46,14 @@ ptyprocess==0.5.1
 Pygments==2.2.0
 pyparsing==2.2.0
 pyproj==1.9.5.1
+PySAL==1.13.0
 python-dateutil==2.6.0
 pytz==2017.2
 pyzmq==16.0.2
 qtconsole==4.3.0
 Rtree==0.8.3
 scandir==1.5
+scipy==0.19.0
 Shapely==1.5.17.post1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
