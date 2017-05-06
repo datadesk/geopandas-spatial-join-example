@@ -27,6 +27,7 @@ jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
 latimes-calculate==0.3.1
+latimes-statestyle==0.1.6
 MarkupSafe==1.0
 matplotlib==2.0.1
 mistune==0.7.4
@@ -41,6 +42,7 @@ pandocfilters==1.4.1
 pathlib2==2.2.1
 pexpect==4.2.1
 pickleshare==0.7.4
+pkg-resources==0.0.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
 Pygments==2.2.0
