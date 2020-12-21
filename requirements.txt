@@ -1,7 +1,7 @@
 appdirs==1.4.3
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==2.0.0
+bleach==3.1.4
 certifi==2017.4.17
 click==6.7
 click-plugins==1.0.3
