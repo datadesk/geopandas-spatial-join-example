@@ -30,7 +30,7 @@ latimes-calculate==0.3.1
 latimes-statestyle==0.1.6
 MarkupSafe==1.0
 matplotlib==2.0.1
-mistune==0.7.4
+mistune==0.8.1
 munch==2.1.1
 nbconvert==5.1.1
 nbformat==4.3.0
